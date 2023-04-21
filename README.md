@@ -1,9 +1,6 @@
 # YoutubeVideoHarvest
 
 
-## Video Demo:  <https://youtu.be/s51gnqLGHYQ>
-
-
 ## Description:
 This Python program allows you to search for videos on YouTube and add them to a playlist. You can specify the channels to search for and the program will retrieve the most relevant videos and add them to a new or existing playlist.
 
