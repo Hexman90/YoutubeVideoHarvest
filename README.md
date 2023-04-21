@@ -18,13 +18,13 @@ The program will then ask if you want to add more channels. If you type 'n', and
 #### Deleting a Playlist
 Next, if you previously created a playlist, the program will ask if you want to delete the playlist that you created the last time.
 
-####Specifying Age of Videos
+#### Specifying Age of Videos
 Next, the program will ask you for the maximum age of the videos you want to include in the playlist.
 
-####Naming a Playlist
+#### Naming a Playlist
 Then the program will ask you to name the playlist you want to create. If you haven’t created a playlist already or if you deleted the previously created playlist.
 
-####Adding Videos to Playlist
+#### Adding Videos to Playlist
 Once you've provided a name, the program will create the playlist, search for videos that meet your criteria, sort them from newest to oldest, and add them to the playlist. Finally, the program will let you know how many videos have been added to the playlist.
 
 ## Prerequisites
